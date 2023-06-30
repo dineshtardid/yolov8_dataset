@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/accs.v2i.yolov8/images/train
+val: /content/drive/MyDrive/accs.v2i.yolov8/images/val
+test: /content/drive/MyDrive/accs.v2i.yolov8/test
+
+nc: 11
+names: ['Bulk Carrier', 'Container Ship', 'Fishing Vessel', 'Naval Ship', 'Oil Tanker', 'Passenger Ship', 'RORO Vessel', 'Rescue Boat', 'Yacht', 'buoy', 'tugboat']
+
